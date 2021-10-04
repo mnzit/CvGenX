@@ -4,6 +4,7 @@
 .mvn
 mvnw
 mvnw.cmd
+.editorconfig
 ### Eclipse ###
 
 .metadata
