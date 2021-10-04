@@ -5,8 +5,9 @@
 mvnw
 mvnw.cmd
 .editorconfig
+src/main/resources
 ### Eclipse ###
-src/java/resource/*.properties
+
 .metadata
 bin/
 tmp/
