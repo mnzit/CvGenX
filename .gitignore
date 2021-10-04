@@ -1,6 +1,9 @@
 ### Vert.x ###
 .vertx/
-
+.idea
+.mvn
+mvnw
+mvnw.cmd
 ### Eclipse ###
 
 .metadata
